@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Jernej
 description: Data Science in Soccer
+
+author: Jernej Flisar
+
+avatar: "avatar-icon.png"
+# By default, the image is cut into a circle. You can disable this behaviour here.
+round-avatar: true
